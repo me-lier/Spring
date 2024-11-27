@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.trail.Main&apos; to &apos;A&apos;&#x0A;- Original project: &apos;trail&apos;&#x0A;- Original element: &apos;com.trail.Main&apos;&#x0A;- Renamed element: &apos;com.trail.A&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Main&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.trail{Main.java[Main" matchStrategy="1" name="A" qualified="false" references="true" similarDeclarations="false" stamp="1720414241453" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th = "http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Showing All Students</title>
+</head>
+<body>
+	<h2> List of Students: </h2>
+	<table width="30%">
+		<tr th:each="std:${allstd}"> 
+			<td th:text="${std.rollno}"> </td>
+			<td th:text="${std.sname}"> </td>
+			<td th:text="${std.course}"> </td>
+			<td th:text="${std.fees}"> </td>
+			<td>
+				<a th:href="@{'/del/'+${std.rollno}}" class="btn btn-danger" role="button"> Delete </a>
+				<a th:href="@{'/edit/'+${std.rollno}}" class="btn btn-danger" role="button"> Edit </a>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

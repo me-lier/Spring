@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Create New Student</title>
+</head>
+<body>
+    <h1>Create New Student</h1>
+    <form th:action="@{/savestudent}" th:object="${std}" method="post">
+        <table>
+            <tr>
+                <td>Roll Number: </td>
+                <td><input type="text" th:field="*{rollno}"/></td>
+            </tr>
+            <tr>
+                <td>Name: </td>
+                <td><input type="text" th:field="*{sname}"/></td>
+            </tr>
+            <tr>
+                <td>Course: </td>
+                <td><input type="text" th:field="*{course}"/></td>
+            </tr>
+            <tr>
+                <td>Fees: </td>
+                <td><input type="text" th:field="*{fees}"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Save Student"/></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

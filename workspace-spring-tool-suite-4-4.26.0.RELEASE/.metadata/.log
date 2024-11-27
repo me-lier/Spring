@@ -1,0 +1,290 @@
+!SESSION 2024-11-14 02:27:45.189 -----------------------------------------------
+eclipse.buildId=4.33.0.202410162246
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/srinivasdeekonda/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/srinivasdeekonda/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-14 02:27:47.543
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-14 02:30:12.207
+!MESSAGE Logback config file: /Users/srinivasdeekonda/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-14 02:30:12.390
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 02:30:12.390
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-14 02:30:12.602
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 02:30:12.602
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.091
+!MESSAGE Classpath changed for project: Collage
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.092
+!MESSAGE Classpath changed for project: Collage-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.092
+!MESSAGE Classpath changed for project: Demo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.092
+!MESSAGE Classpath changed for project: DemoApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.095
+!MESSAGE Classpath changed for project: DemoAppJdbc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.096
+!MESSAGE Classpath changed for project: ESXRDCTFVYBN
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.096
+!MESSAGE Classpath changed for project: EmployeeManagement
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.096
+!MESSAGE Classpath changed for project: Hibernate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.096
+!MESSAGE Classpath changed for project: JSP
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.096
+!MESSAGE Classpath changed for project: Practical-3.1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.096
+!MESSAGE Classpath changed for project: Practical-3.2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.096
+!MESSAGE Classpath changed for project: Practical-3.3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.097
+!MESSAGE Classpath changed for project: Practical-3.4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.097
+!MESSAGE Classpath changed for project: Practical-3.5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.097
+!MESSAGE Classpath changed for project: Practical-3.7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.098
+!MESSAGE Classpath changed for project: Practical-3.8
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.098
+!MESSAGE Classpath changed for project: Practical-3.9
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.098
+!MESSAGE Classpath changed for project: Practical-5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.098
+!MESSAGE Classpath changed for project: Practical-6
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.098
+!MESSAGE Classpath changed for project: Practical-7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.099
+!MESSAGE Classpath changed for project: Servlet
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.099
+!MESSAGE Classpath changed for project: SpringMVCCRUDSimple
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.099
+!MESSAGE Classpath changed for project: Sql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.099
+!MESSAGE Classpath changed for project: Testing
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.100
+!MESSAGE Classpath changed for project: com.Srinivas
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.100
+!MESSAGE Classpath changed for project: crud-app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.100
+!MESSAGE Classpath changed for project: stdMgmt_UsingPostman2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.100
+!MESSAGE Classpath changed for project: trail
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.958
+!MESSAGE Classpath changed for project: Collage
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.959
+!MESSAGE Classpath changed for project: Collage-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.959
+!MESSAGE Classpath changed for project: Demo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.959
+!MESSAGE Classpath changed for project: DemoApp
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.959
+!MESSAGE Classpath changed for project: DemoAppJdbc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.959
+!MESSAGE Classpath changed for project: ESXRDCTFVYBN
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.960
+!MESSAGE Classpath changed for project: EmployeeManagement
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.960
+!MESSAGE Classpath changed for project: Hibernate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.960
+!MESSAGE Classpath changed for project: JSP
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.961
+!MESSAGE Classpath changed for project: Practical-3.1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.961
+!MESSAGE Classpath changed for project: Practical-3.2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.962
+!MESSAGE Classpath changed for project: Practical-3.3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.962
+!MESSAGE Classpath changed for project: Practical-3.4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.962
+!MESSAGE Classpath changed for project: Practical-3.5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.963
+!MESSAGE Classpath changed for project: Practical-3.7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.963
+!MESSAGE Classpath changed for project: Practical-3.8
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.964
+!MESSAGE Classpath changed for project: Practical-3.9
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.964
+!MESSAGE Classpath changed for project: Practical-5
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.964
+!MESSAGE Classpath changed for project: Practical-6
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.964
+!MESSAGE Classpath changed for project: Practical-7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.964
+!MESSAGE Classpath changed for project: Servlet
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.964
+!MESSAGE Classpath changed for project: SpringMVCCRUDSimple
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.965
+!MESSAGE Classpath changed for project: Sql
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.965
+!MESSAGE Classpath changed for project: Testing
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.965
+!MESSAGE Classpath changed for project: com.Srinivas
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.965
+!MESSAGE Classpath changed for project: crud-app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.965
+!MESSAGE Classpath changed for project: stdMgmt_UsingPostman2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:11.966
+!MESSAGE Classpath changed for project: trail
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:14.547
+!MESSAGE Classpath changed for project: DemoAppJdbc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:15.290
+!MESSAGE Classpath changed for project: Collage-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:15.292
+!MESSAGE Boot project ADDED: Collage-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:15.292
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:15.310
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-14 02:31:15.325
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_21.0.4.v20240802-1551/jre/bin/java
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=/Users/srinivasdeekonda/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731531675325
+-Dlanguageserver.hover-timeout=225
+-jar
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.springframework.tooling.boot.ls_1.58.0.202410160331/servers/spring-boot-language-server/spring-boot-language-server-1.58.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:15.326
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-14 02:31:15.337
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 54784
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:15.338
+!MESSAGE Classpath changed for project: Collage-Spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:17.353
+!MESSAGE Classpath changed for project: EmployeeManagement
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:17.356
+!MESSAGE Boot project ADDED: EmployeeManagement
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:18.554
+!MESSAGE Classpath changed for project: EmployeeManagement
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:20.864
+!MESSAGE Classpath changed for project: Hibernate
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-14 02:31:21.822
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-14 02:31:21.824
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:21.832
+!MESSAGE Classpath changed for project: SpringMVCCRUDSimple
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:21.833
+!MESSAGE Boot project ADDED: SpringMVCCRUDSimple
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-14 02:31:21.996
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-14 02:31:21.999
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:22.071
+!MESSAGE Classpath changed for project: Hibernate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:22.071
+!MESSAGE Classpath changed for project: SpringMVCCRUDSimple
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:22.243
+!MESSAGE Classpath changed for project: com.Srinivas
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:22.244
+!MESSAGE Boot project ADDED: com.Srinivas
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:23.078
+!MESSAGE Classpath changed for project: crud-app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:23.081
+!MESSAGE Boot project ADDED: crud-app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:23.639
+!MESSAGE Classpath changed for project: com.Srinivas
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:23.639
+!MESSAGE Classpath changed for project: crud-app
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:25.164
+!MESSAGE Classpath changed for project: stdMgmt_UsingPostman2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 02:31:25.165
+!MESSAGE Boot project ADDED: stdMgmt_UsingPostman2

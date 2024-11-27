@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;jdbc.sql&apos; to &apos;Sql&apos;&#x0A;- Original project: &apos;Class&apos;&#x0A;- Original element: &apos;jdbc.sql&apos;&#x0A;- Renamed element: &apos;jdbc.Sql&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;sql&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;jdbc{sql.java[sql" matchStrategy="1" name="Sql" qualified="false" references="true" similarDeclarations="false" stamp="1720287477520" textual="false" version="1.0"/>
+</session>
